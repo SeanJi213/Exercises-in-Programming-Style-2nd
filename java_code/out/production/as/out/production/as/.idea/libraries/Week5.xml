@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Week5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Week5/app1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week5/app2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Week5/framework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
